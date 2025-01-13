@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name                JManga Chapter Navigation Enhancer
 // @description         左右矢印キーを使用してページチャプターを前後させる
-// @version             1.2
+// @version             1.2.1
 // @author              Yos_sy
 // @match               *://*.jmanga.org/*
 // @match               *://*.jmanga.to/*
 // @match               *://*.jmanga.ac/*
+// @match               *://*.jmanga.sh/*
 // @namespace           http://tampermonkey.net/
 // @icon                https://www.google.com/s2/favicons?sz=64&domain=jmanga.org
 // @license             MIT
